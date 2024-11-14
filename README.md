@@ -17,7 +17,7 @@ I'm passionate about building impactful solutions and continuously learning new 
 - **Tools**: Git, GitHub, AWS, MongoDB
 
 ### 🏆 Fun Facts:
-- **Basketball enthusiast** 🏀: Represented my university team in intercollegiate matches.
+- **Basketball enthusiast** 🏀: I like playing basketball.
 - **Avid traveler** ✈️: Always hunting for the next adventure.
 - **Painting enthusiast** 🎨: I love to unleash my creativity with a paintbrush and bring new ideas to life.
 
