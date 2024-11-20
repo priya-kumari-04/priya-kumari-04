@@ -4,7 +4,7 @@ I'm passionate about building impactful solutions and continuously learning new 
 
 ### 💻 Currently Working On:
 - Developing a **Personal Retail Store** application that delivers an intuitive online shopping experience with features like product search, user authentication, and payment integration.
-- Working on  **back-end** development using **HTML**, **CSS**, **JavaScript**, **Node.js**, **MongoDB**, and **Spring Boot**.
+- Working on  **back-end** development using **HTML**, **CSS**, **CSS**, **JavaScript**, **Node.js**, **MongoDB**, and **Spring Boot**.
 
 ### 📚 Skills & Tools:
 - **Languages**: Python, Java, JavaScript, SQL
