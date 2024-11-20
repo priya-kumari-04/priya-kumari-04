@@ -2,14 +2,9 @@
 
 I'm passionate about building impactful solutions and continuously learning new technologies. With a strong foundation in **Computer Science**, I specialize in **Python**, **Java**, and **SQL**, and I’m always exploring new tools and frameworks to enhance my skill set.
 
-### 🚀 What I Do:
-- Build **full-stack web applications** that provide seamless, user-friendly experiences.
-- Create and optimize **data-driven applications** using **Python**, **Pandas**, and **NumPy**.
-- Implement **machine learning models** and **sentiment analysis** solutions to extract meaningful insights.
-
 ### 💻 Currently Working On:
 - Developing a **Personal Retail Store** application that delivers an intuitive online shopping experience with features like product search, user authentication, and payment integration.
-- Working on **front-end** and **back-end** development using **HTML**, **CSS**, **JavaScript**, **Node.js**, **MongoDB**, and **Spring Boot**.
+- Working on  **back-end** development using **HTML**, **CSS**, **JavaScript**, **Node.js**, **MongoDB**, and **Spring Boot**.
 
 ### 📚 Skills & Tools:
 - **Languages**: Python, Java, JavaScript, SQL
